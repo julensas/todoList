@@ -1,0 +1,10 @@
+.strikethrough {
+	text-decoration: line-through;
+	color: slategrey;
+}
+a{
+	width: 83px;
+}
+a.x{
+	width: 45px;
+}

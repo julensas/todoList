@@ -1,0 +1,22 @@
+{
+  "name": "todo-list",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Julius Baltrusaitis <julius.baltrusaitis@virtustream.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^0.14.7",
+    "foundation": "^5.5.3"
+  }
+}
